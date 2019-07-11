@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : ex_rlc.brd                                    )
+(    Software Version : 17.2S038                                      )
+(    Date/Time        : Wed Jul 10 16:05:46 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  C1 / CAP NP_CAP196_1U / CAP196 at (147.882 87.138)
+         Placed symbol:  J1 / CON2_JUMPER2_CON2 / JUMPER2 at (152.254 87.138)
+         Placed symbol:  L1 / INDUCTOR_SMDRES_100N / SMDRES at (158.785 86.757)
+         Placed symbol:  R1 / R_RES400_330 / RES400 at (163.296 87.049)
+         Placed symbol:  R2 / R_RES400_330 / RES400 at (166.728 87.049)
+
+
+Placed 5 of 5 applicable (5 total) symbols.
+
+-----------------------------------------------------------------------
+
